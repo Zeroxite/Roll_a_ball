@@ -1,0 +1,42 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 620 (ID=0x5916)
+    Vendor:   Intel
+    VRAM:     2142 MB
+    Driver:   23.20.16.4973
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\rockm\Documents\Unity\Roll_a_ball\Roll_a_ball_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.854300 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: c920 -> priority: 1 
+  Thread -> id: cb80 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.782700 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 416.
+Total: 0.385600 ms (FindLiveObjects: 0.044200 ms CreateObjectMapping: 0.016700 ms MarkObjects: 0.302200 ms  DeleteObjects: 0.021500 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.595600 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 280.
+Total: 0.388900 ms (FindLiveObjects: 0.036700 ms CreateObjectMapping: 0.013500 ms MarkObjects: 0.236900 ms  DeleteObjects: 0.100700 ms)
+
